@@ -19,7 +19,7 @@ username_element = browser.find_element_by_name("UserName")
 username_element.send_keys("abv787")
 
 password_element = browser.find_element_by_name("Password")
-password_element.send_keys("omaraVOLO1" + "\n")
+password_element.send_keys("Python19x" + "\n")
 
 # Making bookings
 
